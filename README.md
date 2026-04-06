@@ -52,7 +52,7 @@ This project focuses on predicting whether a customer is likely to leave a servi
 
 
 ## Project Link
-
-## 🙋‍♂️ Author
-
-Your Name
+  https://github.com/Jayadev2728/customer-churn-prediction.git
+  
+##  Author
+Jayadev H N
